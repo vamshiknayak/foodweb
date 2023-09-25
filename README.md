@@ -1,3 +1,3 @@
 # foodweb
 this is food website<br>
-<i>author= vamshik nayak<i>
+<i>author= vamshi_ nayak<i>
